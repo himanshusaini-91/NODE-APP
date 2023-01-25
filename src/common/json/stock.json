@@ -1,0 +1,94 @@
+{
+    "MF2988": {
+        "size": {
+            "XS": {
+                "price": "80",
+                "isFullFilled": true
+            },
+            "S": {
+                "price": "380",
+                "isFullFilled": false
+            },
+            "L": {
+                "price": "680",
+                "isFullFilled": false
+            },
+            "M": {
+                "price": "880",
+                "isFullFilled": false
+            },
+            "XL": {
+                "price": "1180",
+                "isFullFilled": false
+            },
+            "XXL": {
+                "price": "1899",
+                "isFullFilled": false
+            },
+            "XXXL": {
+                "price": "2899",
+                "isFullFilled": false
+            }
+        }
+    },
+    "9T1500": {
+        "size": {
+            "XS": {
+                "price": "110",
+                "isFullFilled": false
+            },
+            "S": {
+                "price": "280",
+                "isFullFilled": false
+            },
+            "L": {
+                "price": "380",
+                "isFullFilled": false
+            },
+            "M": {
+                "price": "480",
+                "isFullFilled": false
+            },
+            "XL": {
+                "price": "580",
+                "isFullFilled": false
+            },
+            "XXL": {
+                "price": "680",
+                "isFullFilled": false
+            }
+        }
+    },
+    "GL1900": {
+        "size": {
+            "XS": {
+                "price": "480",
+                "isFullFilled": false
+            },
+            "S": {
+                "price": "580",
+                "isFullFilled": false
+            },
+            "L": {
+                "price": "780",
+                "isFullFilled": false
+            },
+            "M": {
+                "price": "980",
+                "isFullFilled": false
+            },
+            "XL": {
+                "price": "1280",
+                "isFullFilled": false
+            },
+            "XXL": {
+                "price": "1299",
+                "isFullFilled": false
+            },
+            "XXXL": {
+                "price": "2199",
+                "isFullFilled": false
+            }
+        }
+    }
+}

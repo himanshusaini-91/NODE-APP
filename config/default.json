@@ -1,0 +1,9 @@
+{
+    "server": {
+        "host": "http://localhost",
+        "port": 4200
+    },
+    "cors": {
+        "origin": "*"
+    }
+}
